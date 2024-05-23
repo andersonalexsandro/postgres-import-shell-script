@@ -21,3 +21,5 @@ chmod +x import.sh rebase.sh
 ##Execute os scripts:
 
 ./import.sh
+## ou
+./rebase.sh
