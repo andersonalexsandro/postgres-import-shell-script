@@ -1,0 +1,2 @@
+INSERT INTO public."user" ("name",cpf,cellphone,siape,email,agency_id,"password",is_admin,id,created_at,updated_at) VALUES
+	 ('Importação do Sistema','33425342223','83999999999','1234567','system@admin.com',NULL,'$pbkdf2-sha256$29000$NEYo5XyPsZYSopSylrLWOg$0RFCJ2tKcr66A83EFsmbwBGmjRGcDgU4vPAMsEnauR0',true,'a2495bfa-c6ff-4f82-b2f1-5f06ca87df9b','2024-05-21 19:06:23.156266','2024-05-21 19:06:23.156269');

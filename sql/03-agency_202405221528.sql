@@ -1,0 +1,75 @@
+INSERT INTO public.agency ("name",acronym,id,created_at,updated_at) VALUES
+	 ('Agência De Regulação Do Estado Da Paraíba','ARPB','763ebdc1-7049-4dc0-87fc-6bc0b41735d6','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Agência Estadual De Vigilância Sanitária','AGEVISA','09597638-7609-41bd-a864-d334728df785','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Agencia Executiva De Gestão Das Águas Do Estado Da Paraíba','AESA','588b6a62-3cc5-4567-86cc-ae7a32c49d50','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Casa Civil Do Governador','SEG','089a639a-e57a-41d2-907b-f2894556e87c','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Casa Militar Do Governador','CMG','a4c63b8e-33f0-4de6-b954-b1fbbfd6eb34','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Companhia De Água E Esgotos Da Paraíba','CAGEPA','4e258825-8845-461a-bc71-63d6a9ceeeb8','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Companhia De Desenvolvimento Da Paraíba','CINEP','7ff889a7-2170-426e-b5fe-3ad8fb9f001e','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Companhia De Processamento De Dados Da Paraíba','CODATA','6f8ea435-5cf3-45c7-b435-4ab1d4f622a1','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Companhia Docas Da Paraíba','DOCAS PB','49bbf282-6304-43cb-b2c0-91614ae90462','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Companhia Estadual De Habitação Popular','CEHAP','3f30c6b0-be27-4ed2-9366-0fdd60a6444b','2024-04-25 00:00:00','2024-04-25 00:00:00');
+INSERT INTO public.agency ("name",acronym,id,created_at,updated_at) VALUES
+	 ('Companhia Paraíbana De Gás','PBGÁS','f1099874-58e6-4b97-831f-9791053ed0dc','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Controladoria Geral Do Estado','CGE','0c146bd9-7c0a-4a94-84a4-d9c9a093ca95','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Corpo De Bombeiros Militar Da Paraíba','CBMPB','b26020f8-2947-4b33-a654-95521b105561','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Departamento De Estradas De Rodagem Da Paraíba','DER/PB','7b13cf5f-995e-49ef-b083-d9fcb504350f','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Departamento Estadual De Trânsito Da Paraíba','DETRAN','86159466-f0ed-4382-a59b-238acca0c750','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Empresa Paraíbana De Abastecimento E Servicos Agricolas','EMPASA','b4ef4a45-3513-4442-a924-d729399d7b29','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Empresa Paraíbana De Comunicação','EPC','476ce635-ba79-4046-aed3-6d44cc082914','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Empresa Paraíbana De Pesquisa, Extensão Rural E Regularização Fundária','EMPAER','0cfe830b-e903-41d7-8951-c8b46d2c36ff','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Empresa Paraíbana De Turismo S/A','PBTUR','351916ad-529d-4915-9092-683f7a7aa5ff','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Escola De Serviço Publico Do Estado Da Paraíba','ESPEP','6fc52d62-48ba-4cf0-81ac-0044f6644322','2024-04-25 00:00:00','2024-04-25 00:00:00');
+INSERT INTO public.agency ("name",acronym,id,created_at,updated_at) VALUES
+	 ('Fundacao Casa De José Américo','FCJA','c6f1fc31-8ddd-4ce8-a6fd-bf2eeaf9b2cb','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Fundacao Centro Integrada De Apoio Ao Portador De Deficiência','FUNAD','3e82072c-6dde-45b6-8f71-98d5d0713415','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Fundação De Apoio A Pesquisa Do Estado Da Paraíba','FAPESQ','1e2cd6e8-ef14-4d65-aa20-5287a811463f','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Fundacao De Desenvolvimento Da Crianca E Adolescente "Alice De Almeida"','FUNDAC','b327308c-daad-4530-b189-6c09ed620a46','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Fundação Ernani Sátyro','FUNES','010d0eff-d00b-4720-909f-e59835ed386c','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Fundação Espaço Cultural Da Paraíba','FUNESC','8bce1b26-684f-4ce6-8b79-0b76c2ecc152','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Fundação Paraíbana De Gestão Em Saúde','FUNAD','a9bef6e1-c1d3-4f81-abaf-a8229e4315ea','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Fundo Estadual De Apoio Ao Empreendedorismo','EMPREENDER','86cdae22-9af9-4f40-bc71-5b92e7bdfc80','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Gabinete Do Vice Governador','GVG','1b2344fa-0959-451a-ac56-7762b192eee6','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Hospital Da Polícia Militar General Edson Ramalho','HPMGER','5fab7370-f2ba-4db9-b1e0-7ff391be730d','2024-04-25 00:00:00','2024-04-25 00:00:00');
+INSERT INTO public.agency ("name",acronym,id,created_at,updated_at) VALUES
+	 ('Instituto De Assistência À Saúde Do Servidor','IASS','6eac8e3f-11a1-490d-b825-5d873941f40e','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Instituto De Metrologia E Qualidade Industrial Da Paraíba','IMEQ','6de40979-a8ae-4fec-85ba-6e7c9a451b00','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Instituto De Patrimonio Historico E Artistico Do Estado Da Paraíba','IPHAEP','358ffe12-cf02-4bab-a05b-6ce3ab3b6656','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Junta Comercial Do Estado Da Paraíba','JUCEP','17db40ea-4960-40a6-be7f-7678a1d7c9e2','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Laboratório Industrial Farmacêutico Do Estado Da Paraíba S/A','LIFESA','60467336-225c-4491-9c27-f48ca6c5d368','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Loteria Do Estado Da Paraíba','LOTEP','4fb0a718-cb49-46b1-bc8c-d6e973029922','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Paraíba Previdência','PBPREV','b1bd6d8c-713e-4cd7-976a-d9d654e46561','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Policia Civil Do Estado Da Paraíba','POLICIA CIVIL','93660da0-e1e7-4c0e-b141-e0b1afbd2314','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Policia Militar Do Estado','POLICIA MILITAR','782d5d77-338e-49f9-a2fb-7584c42bf141','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Procuradoria Geral Do Estado','PGE','5f1c7421-49f0-4a2f-8813-0e5ae62dca0f','2024-04-25 00:00:00','2024-04-25 00:00:00');
+INSERT INTO public.agency ("name",acronym,id,created_at,updated_at) VALUES
+	 ('Projeto Cooperar Do Estado Da Paraíba','COOPERAR','dc2dc7ea-fb8a-460e-b37d-28c9bac50177','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Proteção E Defesa Do Consumidor Do Estado Da Paraíba','PROCON PB','c12af4bf-6992-4d31-8a50-9b4e34098a5c','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Da Administração','SEAD','61d73d42-01ae-435b-9a8f-cbc584dfae5d','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Da Administração Penitenciária','SEAP','73680eba-5005-4554-bb2e-07f0ec968ef2','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Da Articulação Política','SAP','31b9ccee-1217-4c03-ac0a-1644ed42fb58','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Da Ciência, Tecnologia, Inovação E Ensino Superior','SECTIES','e35466e8-b67e-48ff-8be4-451800fd2064','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Da Comunicacão Institucional','SECOM','25a6be73-6aea-45e1-84fa-d2c6485a5be0','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Da Cultura','SEC','00d43d38-bb3d-4ee3-a2f8-6eb0c44e2593','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Da Educação','SEECT','36f93f66-142a-4c03-83f3-c015804f6a76','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Da Fazenda','SEFAZ','08506b5c-aac5-4ca4-b466-4fc4b5fea0d8','2024-04-25 00:00:00','2024-04-25 00:00:00');
+INSERT INTO public.agency ("name",acronym,id,created_at,updated_at) VALUES
+	 ('Secretaria De Estado Da Infraestrutura E Dos Recursos Hídricos','SEIRH','08bfd1e9-706c-4b78-bfe6-74168b0ca3e0','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Da Juventude,Esporte E Lazer','SEJEL','ed4a9be3-a1ac-4803-a9c8-344e0373f27f','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Da Mulher E Da Diversidade Humana','SEMDH','2fb9f224-2ec4-4fd8-9420-c3fae1ac4ff1','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Da Representação Institucional Do Governo Da Paraíba','SERI','76d63558-f1e0-481d-aa66-2b3aacf36113','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Da Saúde','SES','8640947b-1165-4479-b537-805a9fb5cba5','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Da Segurança E Da Defesa Social','SESDS','25698222-dd00-415e-a57e-dff64a27154d','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado De Agricultura Familiar E Desenvolvimento Do Semiárido','SEAFDS','d3c85d77-33a9-46af-807d-72bff66b2259','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Do Desenvolvimento Da Agropecuária Da Pesca','SEDAP','a7538e56-f501-41c1-b905-b1d1e7f301b0','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Do Desenvolvimento E Da Articulação Municipal','SEDAM','e51197f7-82b1-4392-8989-367a6e4e5539','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Do Desenvolvimento Humano','SEDH','ccdac8da-7065-4fab-b057-09a9e31dfcc9','2024-04-25 00:00:00','2024-04-25 00:00:00');
+INSERT INTO public.agency ("name",acronym,id,created_at,updated_at) VALUES
+	 ('Secretaria De Estado Do Governo','SEGOV','7c4f732c-2ec8-4563-9d28-04ef3ac67ec4','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Do Meio Ambiente E Sustentabilidade','SEMAS','d5a3a887-d24c-4f2b-940d-c39c8512af2d','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Do Planejamento Orçamento E Gestão','SEPLAG','118b63db-e5b1-46b0-bf3c-84a60dbbf1c9','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria De Estado Do Turismo E Do Desenvolvimento Econômico','SETDE','0df23041-67a1-4e72-8995-80cb1a58ba7b','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Superintendência De Administracao Do Meio Ambiente','SUDEMA','7584df09-7322-4074-a352-2aff7c2ae5d4','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Superintendência De Obras Do Plano De Desenvolvimento Do Estado','SUPLAN','91345b6a-9a4f-4565-8316-4e5652c6913d','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Universidade Estadual Da Paraíba','UEPB','02f899ea-1924-4555-a185-b5425208c17e','2024-04-25 00:00:00','2024-04-25 00:00:00'),
+	 ('Secretaria de Estado da Educação da Paraíba','SEE','6e8a8f2f-532d-407e-a5f9-84d7bf022a02','2024-05-22 16:27:58.685457','2024-05-22 16:27:58.685461');
