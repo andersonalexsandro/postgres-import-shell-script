@@ -44,10 +44,12 @@ error_count=0
 tempfile=$(mktemp)
 
 for table in $TABLES; do
-    psql -U $USERNAME -d $DBNAME -h $HOST -p $PORT -c "TRUNCATE TABLE \"$table\" CASCADE;" 2>>$tempfile
-    if [ $? -ne 0 ]; then
-        echo "Erro ao truncar a tabela $table"
-        ((error_count++))
+    if [ "$table" != "alembic_version" ]; then
+        psql -U $USERNAME -d $DBNAME -h $HOST -p $PORT -c "TRUNCATE TABLE \"$table\" CASCADE;" 2>>$tempfile
+        if [ $? -ne 0 ]; then
+            echo "Erro ao truncar a tabela $table"
+            ((error_count++))
+        fi
     fi
 done
 
